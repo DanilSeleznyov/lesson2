@@ -1,0 +1,20 @@
+body {
+    background-color: mintcream;
+    color: rgb(19, 18, 18);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+img {
+    background-color: rgb(181, 212, 233);
+    border-radius: 50%;
+}
+a {
+    color: rgb(181, 212, 233);
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul {
+    list-style-type: square;
+}
